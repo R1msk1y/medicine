@@ -1,7 +1,7 @@
 ## Medicine
 <a href='https://r1msk1y.github.io/medicine/'>Страница проекта на gitHub Pages<a>
 ___
-## Технологии :computer:
+## Технологии 
 <span>
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30" height="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="30" height="30">
